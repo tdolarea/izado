@@ -1,4 +1,4 @@
-// SW Izado PWA v1792944239
+// SW Izado PWA v1792947248
 self.addEventListener('install', e => self.skipWaiting());
 self.addEventListener('activate', e => {
   e.waitUntil(
